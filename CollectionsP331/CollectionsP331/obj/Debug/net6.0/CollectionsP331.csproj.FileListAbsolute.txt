@@ -1,0 +1,15 @@
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\bin\Debug\net6.0\CollectionsP331.exe
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\bin\Debug\net6.0\CollectionsP331.deps.json
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\bin\Debug\net6.0\CollectionsP331.runtimeconfig.json
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\bin\Debug\net6.0\CollectionsP331.dll
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\bin\Debug\net6.0\CollectionsP331.pdb
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\obj\Debug\net6.0\CollectionsP331.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\obj\Debug\net6.0\CollectionsP331.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\obj\Debug\net6.0\CollectionsP331.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\obj\Debug\net6.0\CollectionsP331.AssemblyInfo.cs
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\obj\Debug\net6.0\CollectionsP331.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\obj\Debug\net6.0\CollectionsP331.dll
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\obj\Debug\net6.0\refint\CollectionsP331.dll
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\obj\Debug\net6.0\CollectionsP331.pdb
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\obj\Debug\net6.0\CollectionsP331.genruntimeconfig.cache
+C:\Users\asus\Desktop\CollectionsP331\CollectionsP331\obj\Debug\net6.0\ref\CollectionsP331.dll
